@@ -6,6 +6,6 @@ Dr Sefki Kolozali, sefki.kolozali@essex.ac.uk, Lecturer in Embedded and Intellig
 
 Meet our GLA(s):
 
-Mr. Shih-Kai Hung sh19143@essex.ac.uk 
+Mr. Shih-Kai Hung sh19143@essex.ac.uk, PhD student at the School of Computer Science and Electronic Engineering. 
 
 
