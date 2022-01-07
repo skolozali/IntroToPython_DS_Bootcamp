@@ -1,6 +1,6 @@
 # Data Science Bootcamp Introduction to Python
 
-Programming in Python, Data Science Bootcamp Leader:
+Programming in Python, Data Science Bootcamp:
 
 Dr Sefki Kolozali, sefki.kolozali@essex.ac.uk, Lecturer in Embedded and Intelligent Systems
 
